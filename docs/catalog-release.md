@@ -1,6 +1,6 @@
 # Prepared catalog releases
 
-Built October 17, 2026. Complete downloads remain private; partial previews and finished covers are in dist/assets. These three products have not been uploaded to Payhip. Do not invent URLs or claim they are purchasable.
+Built October 17, 2026. Complete downloads remain private; partial previews and finished covers are in dist/assets. The owner reports all three products uploaded, named and priced on Payhip. Product-link mapping was explicitly confirmed by the owner on October 17, 2026. Files, displayed prices, descriptions, images and end-to-end payment/delivery remain independently unverified because browser access is blocked. Storefront purchases remain disabled.
 
 | Product | USD price | Private delivery ZIP | Public cover | Public sample |
 | --- | --- | --- | --- | --- |
@@ -26,10 +26,19 @@ Build a training rhythm you can return to. Organize activities you already choos
 
 Includes two complete 74-page A4 PDFs: a writable edition with 764 text fields and checkboxes and a separate print edition, plus instructions. English, undated, personal use. Use a form-capable PDF reader and test saving/reopening; browser/mobile previews vary. This is a tracker, not a prescribed exercise, nutrition or treatment program. No physical product is shipped.
 
+## Owner-confirmed checkout links
+
+- Steady Strength: https://payhip.com/b/9u1ec
+- The Next Chapter: https://payhip.com/b/P6XH0
+- Financial Clarity Kit: https://payhip.com/b/fA0lM
+- The Inner Compass: https://payhip.com/b/J0SFs
+
+All four exact URLs are saved in src/commerce.json. Do not swap their mapping or create duplicate products.
+
 ## Finish provider setup
 
-Create each as a one-time USD digital product using its correct private ZIP, cover, description and partial sample. Confirm uploaded bytes against the private manifest. Do not upload only a preview as a paid product.
+Finish each existing one-time USD listing using its correct private ZIP, cover, description and partial sample. Confirm prices and uploaded bytes against the private manifest. Do not upload only a preview as a paid product.
 
 Update the existing Inner Compass listing at https://payhip.com/b/J0SFs rather than creating a duplicate; its description is in payhip-product-setup.md. The owner explicitly chose to keep this existing listing Visible.
 
-Confirmed support email: metal_cook@hotmail.com. Resolve remaining seller, policy, tax and language details. Test receipt email and downloaded files with a restricted coupon, then complete a separately authorized real payment. Store actual links in src/commerce.json and set only verified gates true. Do not activate storefront checkout before these checks pass.
+Confirmed support email: metal_cook@hotmail.com. Resolve remaining seller, policy, tax and language details. Test receipt email and downloaded files with a restricted coupon, then complete a separately authorized real payment. The actual owner-confirmed links are stored in src/commerce.json; set only verified gates true. Do not activate storefront checkout before these checks pass.

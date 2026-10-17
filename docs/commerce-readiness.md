@@ -48,3 +48,8 @@ The owner confirmed metal_cook@hotmail.com as the customer-support email on Octo
 - https://help.payhip.com/article/208-customer-did-not-receive-email
 
 The free plan is USD 0 monthly plus 5% Payhip transaction fees; processor fees are additional. Account-specific holds, fees, currency conversion and withdrawal timing must be verified in the connected payment account. Do not promise instant bank settlement.
+
+
+## Catalog link confirmation / October 17, 2026
+
+The owner reports all products uploaded, named and priced. Explicitly confirmed mapping: Steady Strength https://payhip.com/b/9u1ec; The Next Chapter https://payhip.com/b/P6XH0; Financial Clarity https://payhip.com/b/fA0lM. These exact URLs and the existing Inner Compass URL are stored in configuration. Browser access remains blocked. Verify existing listings instead of asking the owner to recreate accounts or products. Owner-reported upload completion does not independently verify file integrity, receipt email, payment receipt or delivery. Launch remains disabled; pending gate flags express verification status, not a claim that the owner has not performed setup.
