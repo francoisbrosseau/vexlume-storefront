@@ -1,3 +1,5 @@
+> Latest operational update: see [Payhip checkpoint — October 17](payhip-checkpoint-2026-10-17.md). Account access is restored, all four listings have saved covers/descriptions/samples, and PayPal Connected is independently confirmed. Delivery testing is currently paused at a CAPTCHA. Earlier browser-block statements below describe historical status.
+
 # Prepared catalog releases
 
 Built October 17, 2026. Complete downloads remain private; partial previews and finished covers are in dist/assets. The owner reports all three products uploaded, named and priced on Payhip. Product-link mapping was explicitly confirmed by the owner on October 17, 2026. Files, displayed prices, descriptions, images and end-to-end payment/delivery remain independently unverified because browser access is blocked. Storefront purchases remain disabled.

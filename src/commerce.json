@@ -12,7 +12,7 @@
       "checkoutUrl": "https://payhip.com/b/J0SFs",
       "ownerApproved": true,
       "filesUploaded": false,
-      "paymentConnected": false,
+      "paymentConnected": true,
       "deliveryTested": false,
       "paymentTested": false,
       "policiesReady": false
@@ -21,7 +21,7 @@
       "checkoutUrl": "https://payhip.com/b/fA0lM",
       "ownerApproved": false,
       "filesUploaded": false,
-      "paymentConnected": false,
+      "paymentConnected": true,
       "deliveryTested": false,
       "paymentTested": false,
       "policiesReady": false
@@ -30,7 +30,7 @@
       "checkoutUrl": "https://payhip.com/b/P6XH0",
       "ownerApproved": false,
       "filesUploaded": false,
-      "paymentConnected": false,
+      "paymentConnected": true,
       "deliveryTested": false,
       "paymentTested": false,
       "policiesReady": false
@@ -39,7 +39,7 @@
       "checkoutUrl": "https://payhip.com/b/9u1ec",
       "ownerApproved": false,
       "filesUploaded": false,
-      "paymentConnected": false,
+      "paymentConnected": true,
       "deliveryTested": false,
       "paymentTested": false,
       "policiesReady": false

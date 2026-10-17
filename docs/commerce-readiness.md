@@ -1,3 +1,5 @@
+> Latest operational update: see [Payhip checkpoint — October 17](payhip-checkpoint-2026-10-17.md). Account access is restored, all four listings have saved covers/descriptions/samples, and PayPal Connected is independently confirmed. Delivery testing is currently paused at a CAPTCHA. Earlier browser-block statements below describe historical status.
+
 # RITUWILD / first paid release
 
 Prepared October 17, 2026. First release: The Inner Compass, proposed USD 12.99 one-time purchase. Both complete editions have 46 pages. The US Letter edition has 122 writable fields; the A4 print edition has ruled spaces. Includes 30 daily sessions, four weekly reviews, starting frameworks, reusable worksheets and instructions. English, personal-use license. Free preview: eight selected pages.
