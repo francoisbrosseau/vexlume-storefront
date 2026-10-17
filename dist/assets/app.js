@@ -17,3 +17,18 @@ function filterCatalog(){
 }
 filters.forEach(button=>button.addEventListener('click',()=>{category=button.dataset.filter;filters.forEach(item=>item.setAttribute('aria-pressed',String(item===button)));filterCatalog();}));
 if(search)search.addEventListener('input',filterCatalog);
+
+// This exercise never sends answers or writes browser storage.
+const stepForm=document.querySelector('#step-form');
+if(stepForm){
+ stepForm.addEventListener('submit',event=>{
+  event.preventDefault();
+  if(!stepForm.reportValidity())return;
+  const fields=['focus','goal','action','when','review'];
+  const values=Object.fromEntries(fields.map(name=>[name,document.querySelector(`#step-${name}`).value.trim()]));
+  if(fields.some(name=>!values[name]))return;
+  fields.forEach(name=>{document.querySelector(`#result-${name}`).textContent=values[name];});
+  const result=document.querySelector('#step-result');result.hidden=false;result.focus();
+ });
+ document.querySelector('#print-step').addEventListener('click',()=>window.print());
+}

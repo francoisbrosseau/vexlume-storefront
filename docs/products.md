@@ -1,14 +1,16 @@
-# Product development
+# VEXLUME / Personal growth collection
 
-| Product | Price in USD | State | Remaining work |
-|---|---:|---|---|
-| The Picture-Perfect Property | 9.99 proposed | 17-page PDF, three-page sample | Owner/editorial approval, professional-use licensing decision, checkout upload/test |
-| Weekly Reset Planner | Free | Two-page printable PDF | Device download/print trial, final approval |
-| Financial Clarity Kit | 14.99 proposed | Detailed product page and cover concept | Actual workbook, formulas, charts, examples, edge-case and compatibility testing |
-| Inner Compass | 12.99 proposed | Detailed product page and cover concept | Thirty-day progression, weekly reviews, writing pages, layout and content QA |
+| Tool | Focus | Proposed USD price | Status |
+|---|---|---:|---|
+| The Inner Compass | Emotional clarity, patterns, needs and boundaries | 12.99 | Planned 30-day guided journal; not released |
+| The Financial Clarity Kit | Budgets, spending, subscriptions and meaningful savings | 14.99 | Planned editable workbook; formulas and compatibility not yet tested |
+| The Next Chapter | Life review, choices and a focused next 90 days | 12.99 | New product concept and page; workbook in development |
+| Steady Strength | Training consistency, session notes, habits and recovery | 9.99 | New product concept and page; tracker in development |
+| Weekly Reset Planner | Priorities, appointments, habits and reviews | Free | Real two-page printable PDF |
+| Your Next Step | One focus, one small action, one check-in | Free | Functional browser-local exercise with printable result |
 
-The property guide covers practical room preparation, light and furniture, privacy, a 48-hour timeline and final checklists. It does not promise a sale price or replace disclosure, inspection or professional advice. Page 2 maps the guide; pages 15-17 are printable checklists/worksheet.
+The property-preparation product was removed from the live catalog, routes, samples and promotional sections at the owner's request. Its master remains privately archived, not sold or promoted by VEXLUME.
 
-The two free-planner pages cover priorities/tasks/appointments/goals, then habit tracking/reflection/next-week preparation. They are printable, not fillable AcroForms. Fit-to-page supports A4 printing, but a physical printer trial is still outstanding.
+All paid-product covers are concepts. Do not claim paid files are complete or accept payments before producing, testing and approving them. The two newly proposed prices are working decisions, not researched market valuations.
 
-Paid downloads belong in Payhip, never the static publish directory. Free resources and evaluation samples can live in `dist/assets/`.
+The free browser exercise does not send or store answers; users can print their card. No paid-product source or personal responses are included in the public repository.

@@ -1,58 +1,59 @@
 [
   {
-    "slug": "picture-perfect-property",
-    "title": "The Picture-Perfect Property",
-    "category": "Home & space",
-    "price": "9.99",
-    "format": "PDF guide \u00b7 17 pages",
-    "short": "Prepare every room. Simplify photography day. Make the first impression count.",
-    "color": "ivory",
-    "status": "Preparing for launch",
-    "subtitle": "A calmer home. A clearer first impression.",
-    "intro": "A practical preparation guide for homeowners, agents and property photographers. Know what to clear, what to keep, and what to do first\u2014without turning preparation into a renovation.",
+    "slug": "inner-compass",
+    "title": "The Inner Compass",
+    "category": "Emotional clarity",
+    "price": "12.99",
+    "format": "Planned: printable PDF",
+    "short": "Thirty days to reflect with intention and turn what you notice into a next step.",
+    "color": "charcoal",
+    "status": "In development",
+    "subtitle": "Know what you feel. Choose what comes next.",
+    "intro": "A 30-day guided reflection journal in development for understanding emotions, reconnecting with values and choosing a thoughtful next step. The planned progression gives difficult days and meaningful changes somewhere to land.",
     "features": [
-      "Room-by-room preparation for living spaces, bedrooms, kitchens and more",
-      "Furniture, lighting, privacy and presentation guidance",
-      "A practical 48-hour preparation timeline",
-      "Three printable planning and walkthrough pages",
-      "Photography-day coordination and common mistakes to avoid"
+      "Planned daily check-in for feelings, context and what you need",
+      "Planned prompts exploring recurring patterns, values and boundaries",
+      "Planned exercises separating an observation from the story around it",
+      "Planned weekly reviews that turn reflection into one small action",
+      "Planned printable writing pages with room for honest, unhurried answers"
     ],
     "inside": [
       [
         "01",
-        "See the space",
-        "Start with a walkthrough and choose the changes that matter most."
+        "Notice without rushing",
+        "Name the feeling, the moment around it and what deserves your attention."
       ],
       [
         "02",
-        "Prepare with purpose",
-        "Work room by room, clear distractions and simplify your surfaces."
+        "Find the pattern",
+        "Explore the needs, values and boundaries underneath recurring experiences."
       ],
       [
         "03",
-        "Be ready on the day",
-        "Use the 48-hour plan and final walkthrough to bring everything together."
+        "Choose with intention",
+        "Turn what you learn into a grounded next step and a weekly review."
       ]
     ],
-    "sample": "property-sample.pdf",
-    "note": "The guide is complete for owner review. Checkout and delivery are being prepared."
+    "sample": null,
+    "note": "The journal is in development. It supports self-reflection and is not therapy or a crisis service. Interior pages are not yet available."
   },
   {
     "slug": "financial-clarity-kit",
     "title": "The Financial Clarity Kit",
-    "category": "Money & planning",
+    "category": "Financial clarity",
     "price": "14.99",
     "format": "Planned: Excel workbook",
     "short": "A clearer view of your income, spending and the goals you are working toward.",
     "color": "sage",
     "status": "In development",
-    "subtitle": "Give your money a little more clarity.",
-    "intro": "An editable toolkit being developed to bring monthly budgets, income, expenses and savings into one approachable place. Built around understanding everyday finances, one month at a time.",
+    "subtitle": "Make your money support your life.",
+    "intro": "An editable toolkit in development for understanding your month, noticing spending patterns and choosing realistic savings priorities. The aim is a clearer relationship with everyday money, with practical organization rather than investment advice.",
     "features": [
-      "Planned monthly budget and income tracking",
-      "Planned expense and subscription trackers",
-      "Planned savings goals and spending summaries",
-      "Planned charts and clear workbook instructions"
+      "Planned monthly overview of income, commitments and money remaining",
+      "Planned planned-versus-actual expense categories and spending review",
+      "Planned subscription audit with renewal dates and cancellation reminders",
+      "Planned savings goals connected to a realistic monthly contribution",
+      "Planned month-end reflection: what changed, what worked and what to adjust"
     ],
     "inside": [
       [
@@ -75,46 +76,85 @@
     "note": "This workbook has not been released. Features and Excel / Google Sheets compatibility require completion and testing."
   },
   {
-    "slug": "inner-compass",
-    "title": "The Inner Compass",
-    "category": "Reflection & growth",
+    "slug": "next-chapter-planner",
+    "title": "The Next Chapter",
+    "category": "Life direction",
     "price": "12.99",
-    "format": "Planned: printable PDF",
-    "short": "Thirty days to reflect with intention and turn what you notice into a next step.",
-    "color": "charcoal",
+    "format": "Planned: 90-day PDF planner",
+    "short": "Get clear on what matters, choose a direction and build your next 90 days around it.",
+    "color": "ivory",
     "status": "In development",
-    "subtitle": "A little space to hear yourself.",
-    "intro": "A guided journal being developed for people who want more than a blank page. The planned 30-day progression moves from noticing your present to choosing a grounded next step.",
+    "subtitle": "Your life is allowed to change direction.",
+    "intro": "A life-planning toolkit in development for the in-between moments: a fresh start, a change of priorities or the feeling that something needs to shift. Start with where you are, define what matters and test your next direction in manageable steps.",
     "features": [
-      "Planned 30-day sequence of meaningful prompts",
-      "Planned weekly reviews and goal-setting exercises",
-      "Planned printable writing pages",
-      "A progression from awareness to deliberate action"
+      "Planned life-area review: energy, time, relationships, work and wellbeing",
+      "Planned values and priorities exercises to clarify what to protect or change",
+      "Planned decision pages for comparing options and naming trade-offs",
+      "Planned 90-day focus with milestones and weekly next actions",
+      "Planned stop/start/continue reviews and a reset when circumstances change"
     ],
     "inside": [
       [
         "01",
-        "Notice",
-        "Explore the patterns and priorities asking for your attention."
+        "Take stock",
+        "Notice what gives you energy, what drains it and what no longer fits."
       ],
       [
         "02",
-        "Understand",
-        "Make room for values, boundaries and honest reflection."
+        "Choose a direction",
+        "Define one meaningful focus and the trade-offs you are willing to make."
       ],
       [
         "03",
-        "Move forward",
-        "Translate insight into small, deliberate actions."
+        "Build the next 90 days",
+        "Turn that direction into small experiments, milestones and weekly reviews."
       ]
     ],
     "sample": null,
-    "note": "The journal is in development. The cover is a design preview; the complete journal is not yet available."
+    "note": "This planner is in development. Its cover is a concept; the complete 90-day workbook is not yet available."
+  },
+  {
+    "slug": "steady-strength",
+    "title": "Steady Strength",
+    "category": "Training & habits",
+    "price": "9.99",
+    "format": "Planned: 12-week PDF tracker",
+    "short": "Build a training rhythm you can return to. Track effort, recovery and the habits behind progress.",
+    "color": "sage",
+    "status": "In development",
+    "subtitle": "Consistency has a quieter kind of strength.",
+    "intro": "A training-and-habit tracker in development for people who want a routine that lasts beyond a motivated Monday. Organize the sessions you already choose, notice recovery and build a useful picture of your consistency over 12 weeks.",
+    "features": [
+      "Planned weekly training schedule with space for your own activities",
+      "Planned session logs for movement, duration, effort and notes",
+      "Planned habit tracking for the routines that support consistency",
+      "Planned recovery check-ins for sleep, energy and how a session felt",
+      "Planned weekly reviews and a practical return-after-a-break page"
+    ],
+    "inside": [
+      [
+        "01",
+        "Set a rhythm",
+        "Choose a manageable schedule around your existing training and real commitments."
+      ],
+      [
+        "02",
+        "Track the process",
+        "Record sessions, effort and recovery without reducing progress to a single number."
+      ],
+      [
+        "03",
+        "Adjust and return",
+        "Review what is sustainable and use a missed week as information for the next one."
+      ]
+    ],
+    "sample": null,
+    "note": "This tracker is in development. It organizes your chosen activities; it does not prescribe exercise, nutrition or medical treatment."
   },
   {
     "slug": "weekly-reset-planner",
     "title": "The Weekly Reset Planner",
-    "category": "Everyday rituals",
+    "category": "Weekly reset",
     "price": "0",
     "format": "Printable PDF \u00b7 2 pages",
     "short": "A fresh page for your priorities, your habits and a week with more breathing room.",
