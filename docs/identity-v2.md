@@ -1,8 +1,8 @@
-# VEXLUME / Identity refinement 02
+# RUTIWILD / Identity refinement 02
 
 Independent spirit. Considered design.
 
-A gold monogram and prominent serif masthead connect VEXLUME to HAVEN's premium atmosphere. Dark walnut, golden dusk, deeper charcoal and a stronger editorial composition connect it to WILDWIRE. VEXLUME keeps its own purpose: practical, beautiful tools for home, mind and money.
+A gold monogram and prominent serif masthead connect RUTIWILD to HAVEN's premium atmosphere. Dark walnut, golden dusk, deeper charcoal and a stronger editorial composition connect it to WILDWIRE. RUTIWILD keeps its own purpose: practical, beautiful tools for home, mind and money.
 
 ## What changed
 

@@ -1,6 +1,6 @@
 # Brand identity / version 1
 
-VEXLUME — Beautiful Tools for Real Life.
+RUTIWILD — Beautiful Tools for Real Life.
 
 Charcoal #171B1B, ivory #F2EDE4, muted gold #B99B67, sage #667D70, white #FFFFFF. Use dark text on light surfaces; gold is primarily a rule, border or accent rather than small body text. Sage on ivory is reserved for large editorial type and darkened for small labels.
 

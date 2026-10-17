@@ -1,4 +1,4 @@
-# VEXLUME — Beautiful Tools for Real Life.
+# RUTIWILD — Beautiful Tools for Real Life.
 
 Public development storefront. Checkout is disabled. Paid product masters and their generation source are stored separately in a private repository.
 

@@ -1,4 +1,4 @@
-# VEXLUME / Personal growth collection
+# RUTIWILD / Personal growth collection
 
 | Tool | Focus | Proposed USD price | Status |
 |---|---|---:|---|
@@ -9,7 +9,7 @@
 | Weekly Reset Planner | Priorities, appointments, habits and reviews | Free | Real two-page printable PDF |
 | Your Next Step | One focus, one small action, one check-in | Free | Functional browser-local exercise with printable result |
 
-The property-preparation product was removed from the live catalog, routes, samples and promotional sections at the owner's request. Its master remains privately archived, not sold or promoted by VEXLUME.
+The property-preparation product was removed from the live catalog, routes, samples and promotional sections at the owner's request. Its master remains privately archived, not sold or promoted by RUTIWILD.
 
 All paid-product covers are concepts. Do not claim paid files are complete or accept payments before producing, testing and approving them. The two newly proposed prices are working decisions, not researched market valuations.
 
