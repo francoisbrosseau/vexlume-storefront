@@ -1,13 +1,9 @@
-# RITUWILD / Return & Rise
+# RITUWILD / Generated botanical journal identity
 
-Approved spelling: RITUWILD. Domain: rituwild.com. Routine and an independent spirit: daily structure creates room to live freely.
+October 16, 2026. Owner rejected the earlier code-drawn RW identity and requested image-generated artwork. The replacement combines engraved gold open journal pages, an upward winding path, botanical growth and a sun. Brand spelling: RITUWILD, R-I-T-U-W-I-L-D.
 
-The original RW seal pairs an open circular return stroke with a rising terminal. R and W interlock into a single emblem. Nimbus Roman letterforms are converted to paths with deliberate spacing. No runtime fonts, square badges or stock icons.
+Primary transparent image: dist/assets/rituwild-logo.webp. Dark-surface variant: rituwild-logo-light.webp. Standalone generated emblem: rituwild-emblem.webp; favicon.png and social.png are optimized derivatives. The old RW vector logo assets and generator were removed. Both generated wordmarks were inspected over ivory and charcoal to verify alpha and spelling. Exact built-in prompts are in image-generation.md.
 
-Assets in dist/assets: logo.svg with light/gold variants, wordmark.svg with light/gold variants, symbol.svg, mark.svg, social.svg and social.png. Use dark on ivory and ivory on charcoal. Preserve full aspect ratio and clear space. The approved charcoal, ivory, gold, sage system and editorial imagery remain.
+Retain charcoal, ivory, sage and gold editorial design. Preserve aspect ratio, natural gold detailing and clear space. Do not put the logo into a square badge or rebuild it from text or CSS.
 
-Website voice: small rituals, practical progress, a life of your own. Products support life direction, money organization, emotional reflection and training consistency. No therapeutic or financial outcome promises.
-
-Retain existing GitHub repository name to preserve integrations and history; public display branding is RITUWILD. Retain preview URL until domain HTTPS works. HAYVN and WILDWIRE stay independent.
-
-QA: 16 generated pages, 570 local references, menu/catalog and action-card checks pass. Rebranded PDF and vector logo visually inspected. Browser layout QA unavailable: control-browser skill absent. WILDWIRE tests run separately before merge.
+Existing GitHub repository name and Site project are retained. Checkout and indexing remain disabled. Domain validation is in progress; retain working preview destinations until HTTPS is verified.
