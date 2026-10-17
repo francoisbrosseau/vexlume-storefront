@@ -1,4 +1,4 @@
-> Latest operational update: see [Payhip checkpoint — October 17](payhip-checkpoint-2026-10-17.md). Account access is restored, all four listings have saved covers/descriptions/samples, and PayPal Connected is independently confirmed. Delivery testing is currently paused at a CAPTCHA. Earlier browser-block statements below describe historical status.
+> Latest operational update: see [Payhip checkpoint — October 17](payhip-checkpoint-2026-10-17.md). Account access is restored, all four listings have saved covers/descriptions/samples, and PayPal Connected is independently confirmed. The owner completed the CAPTCHA; all four packages and twelve separate files now pass byte-for-byte download checks. Receipt inbox arrival and real payment remain unverified. Earlier browser-block statements below describe historical status.
 
 # RITUWILD / first paid release
 

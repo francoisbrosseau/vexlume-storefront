@@ -1,33 +1,31 @@
 # Payhip operational checkpoint — October 17, 2026
 
-## Verified in the signed-in Payhip interface
+## Completed and independently verified
 
-- Browser account access restored in this session.
-- Four existing active products and correct mapping confirmed. No duplicate listings created.
-- The Inner Compass (J0SFs): USD 12.99; full digital PDF, full print PDF, instructions and ZIP attached.
-- Steady Strength (9u1ec): USD 9.99; full digital PDF, full print PDF, instructions and ZIP attached. Title spelling corrected.
-- The Next Chapter (P6XH0): USD 12.99; full digital PDF, full print PDF, instructions and ZIP attached.
-- Financial Clarity (fA0lM): USD 14.99; XLSX, full guide PDF, instructions and ZIP attached.
-- All four descriptions, actual cover images and partial preview PDFs uploaded; Save Changes success confirmed on each existing listing.
-- Public pages show the updated titles, descriptions and Preview controls. Inner Compass cover visually verified.
-- Payhip Payment Details explicitly shows PayPal Connected and default currency USD. paymentConnected is now true for all four products.
-- Buyer checkout renders PayPal and Debit/Credit Card options. Marketing opt-in is unchecked.
+- Four existing active product mappings, USD prices and full delivery-file attachments confirmed; no duplicate products created.
+- Inner Compass J0SFs USD12.99; Steady Strength 9u1ec USD9.99; The Next Chapter P6XH0 USD12.99; Financial Clarity fA0lM USD14.99.
+- All four listings have saved descriptions, finished cover images, correct titles and partial preview PDFs. Public listings checked.
+- Generic template biography and stock portrait removed from Payhip collection; clean public catalog published and visually checked.
+- Payment Details explicitly reports PayPal Connected and default currency USD. Buyer checkout renders PayPal and debit/credit-card controls.
+- A private coupon restricted to one use reduced a four-product cart to USD0.00. The owner completed the CAPTCHA. The checkout then opened the buyer download page for all four products.
+- Downloaded all four ZIPs and all twelve separately supplied PDFs, XLSX and instructions. All sixteen delivery files match the finished private originals byte for byte. ZIP CRC checks passed. See payhip-download-verification.json.
+- Payhip says the download page was emailed to the confirmed support/owner email. Actual inbox receipt has not yet been confirmed.
+- Coupon usage independently shows 1/1 used; the coupon cannot be reused under its configured limit. Do not count this zero-dollar QA order as a genuine customer sale.
+- Marketing opt-in remained unchecked.
 
-- Removed the generic template About Me biography and stock portrait from the Payhip collection. Publish success and the clean public catalog were visually verified. No invented biography was substituted.
+## Verification distinctions
 
-## Delivery test pending human verification
+filesUploaded is true: all paid delivery bytes were checked. downloadTested is true: the buyer page and actual downloads worked. receiptEmailVerified remains false, and deliveryTested remains false until inbox arrival is confirmed. paymentConnected is true; paymentTested remains false because a no-charge order bypasses PayPal processing.
 
-A private 100%-off coupon was created with a maximum of one use. A cart containing exactly one of each of the four products reached USD 0.00 after the discount. Download now triggered an hCaptcha challenge before the download page. No successful order or download is claimed. The buyer used the existing signed-in owner identity and confirmed support email. A Canadian checkout country selection was attempted, but discount recalculation removed location inputs before province entry; the final zero-dollar display retained a UK VAT label with tax zero. This does not verify Canadian tax handling.
+This test used the existing signed-in owner identity. It does not verify guest checkout, real payment, refund, processor fees or bank settlement. A Canadian country selection was attempted before discount recalculation; province entry was not completed and the zero-dollar summary retained a UK VAT label with tax zero. Canadian tax handling is not verified.
 
-The coupon is intentionally not recorded in public source. Its restriction and eventual consumption/disablement must be checked after the test. Do not distribute it or count the QA order as a customer sale.
+Some downloads returned paths before files were available; missing files were retried using the same visible controls and all final bytes were verified. No hidden authenticated API or alternate delivery route was used.
 
-Uploaded filenames and sizes were observed; byte hashes and full customer downloads remain unverified. Keep filesUploaded and deliveryTested false until the files are retrieved and compared. Email receipt arrival requires evidence from the recipient, not merely a provider message claiming it was sent.
+## Remaining requirements before storefront activation
 
-## Remaining launch requirements
+1. Owner confirms the receipt arrived and its download link works from the email.
+2. Complete a separately authorized small real payment using an appropriate buyer method/account different from the seller processor; verify Payhip order and PayPal receipt. No test amount has been approved and no money was spent.
+3. Confirm legal seller identity and business contact information authorized for commercial display, tax setup, final policies and applicable Quebec language requirements. Do not invent details.
+4. Finish failure/refund checks as appropriate, then enable only fully verified product gates. Storefront checkout and indexing remain disabled.
 
-- Complete the pending CAPTCHA through user handoff, then inspect the download page and all four complete packages.
-- Confirm receipt arrival at the owner's supplied email.
-- Complete a separately authorized small real payment from a buyer account/payment method different from the seller processor; verify Payhip order and PayPal funds receipt. No amount has been authorized and no money was spent.
-- Verify seller legal/business contact details, commercial policies, tax settings and applicable Quebec language requirements before commercial activation.
-- Preserve existing product visibility per the owner's instruction.
-- Storefront checkout stays disabled. Do not relax gates or claim payment/delivery tested.
+Do not publish buyer download URLs, account tokens or the test coupon. Full paid masters remain private.

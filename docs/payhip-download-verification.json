@@ -1,0 +1,142 @@
+{
+  "packages": [
+    {
+      "product": "Inner Compass",
+      "bytes": 1576532,
+      "sha256": "489c017752351597258fb9594762a96270d9422d06d5ff4ece01e07535e29dc0",
+      "master_match": true,
+      "crc_ok": true,
+      "files": [
+        "RITUWILD-The-Inner-Compass-Digital.pdf",
+        "RITUWILD-The-Inner-Compass-Print-A4.pdf",
+        "READ-ME-FIRST.txt"
+      ]
+    },
+    {
+      "product": "Steady Strength",
+      "bytes": 1586187,
+      "sha256": "5b035d2e0f71a103aceb444cfa72bf4072e25071f27bab5a992e06ad168a83b1",
+      "master_match": true,
+      "crc_ok": true,
+      "files": [
+        "RITUWILD-Steady-Strength-Digital.pdf",
+        "RITUWILD-Steady-Strength-Print-A4.pdf",
+        "READ-ME-FIRST.txt"
+      ]
+    },
+    {
+      "product": "The Next Chapter",
+      "bytes": 1528073,
+      "sha256": "24e7a371072cb322328489c69492ee50591467c2de4a1fed74b96a661419cf64",
+      "master_match": true,
+      "crc_ok": true,
+      "files": [
+        "RITUWILD-The-Next-Chapter-Digital.pdf",
+        "RITUWILD-The-Next-Chapter-Print-A4.pdf",
+        "READ-ME-FIRST.txt"
+      ]
+    },
+    {
+      "product": "Financial Clarity",
+      "bytes": 688142,
+      "sha256": "2520efd617a746fd692adc1d9306033b023e0314982dcbaf72c2186172d7d135",
+      "master_match": true,
+      "crc_ok": true,
+      "files": [
+        "RITUWILD-Financial-Clarity-Kit.xlsx",
+        "RITUWILD-Financial-Clarity-Guide-Print-A4.pdf",
+        "READ-ME-FIRST.txt"
+      ]
+    }
+  ],
+  "standalone_files": [
+    {
+      "index": 15,
+      "file": "RITUWILD-The-Inner-Compass-Digital.pdf",
+      "bytes": 1165834,
+      "master_match": true,
+      "sha256": "874f96ec99124b44ad6726e02d2d33a53bb35179181fd609862206a308212dd3"
+    },
+    {
+      "index": 18,
+      "file": "RITUWILD-The-Inner-Compass-Print-A4.pdf",
+      "bytes": 879787,
+      "master_match": true,
+      "sha256": "e50d8cfdf86c9ee725ce43707f1dfc5359251ec080f385f9960c22b7c34bf3c7"
+    },
+    {
+      "index": 21,
+      "file": "READ-ME-FIRST.txt",
+      "bytes": 1084,
+      "master_match": true,
+      "sha256": "eaac64a3354ecba5960c21bfff3f17324cb00006f6b753fe062c744a0b939ec1"
+    },
+    {
+      "index": 33,
+      "file": "RITUWILD-Steady-Strength-Print-A4.pdf",
+      "bytes": 903959,
+      "master_match": true,
+      "sha256": "4eba43398459faa01700a8b6541450afe0e004e3d22cb10dd538ea258dce0a45"
+    },
+    {
+      "index": 36,
+      "file": "RITUWILD-Steady-Strength-Digital.pdf",
+      "bytes": 1618763,
+      "master_match": true,
+      "sha256": "5451954851d405745a780098eb02998e01be64cdabf2628c02a5804bfd596aa5"
+    },
+    {
+      "index": 39,
+      "file": "READ-ME-FIRST.txt",
+      "bytes": 880,
+      "master_match": true,
+      "sha256": "1e59fc670ba1f085ea96e3ec1dbab3764cac78e4c2073c829870b175d5fc45e8"
+    },
+    {
+      "index": 51,
+      "file": "RITUWILD-The-Next-Chapter-Print-A4.pdf",
+      "bytes": 860284,
+      "master_match": true,
+      "sha256": "719c042da0a5e48b6294074b4bc390a239e62f678112865b58e6b70e7f4c9063"
+    },
+    {
+      "index": 54,
+      "file": "RITUWILD-The-Next-Chapter-Digital.pdf",
+      "bytes": 1170264,
+      "master_match": true,
+      "sha256": "9f755598fcadb4a20462df5157e792ff29fb28aba483299e44a84a5faf9e0a10"
+    },
+    {
+      "index": 57,
+      "file": "READ-ME-FIRST.txt",
+      "bytes": 883,
+      "master_match": true,
+      "sha256": "94683eedc5593b496816deef8bea0c8bac4dee6789cab21160c6ba8483ce566d"
+    },
+    {
+      "index": 69,
+      "file": "RITUWILD-Financial-Clarity-Guide-Print-A4.pdf",
+      "bytes": 808775,
+      "master_match": true,
+      "sha256": "3143467cb0fac640611edad0ad1f8ed2030d26da85397b6f307c97b3a396f4b7"
+    },
+    {
+      "index": 72,
+      "file": "READ-ME-FIRST.txt",
+      "bytes": 893,
+      "master_match": true,
+      "sha256": "bf6640b61c7e5601a927db6c99141488c2c4f651d47d2887b77479b92cbb97c6"
+    },
+    {
+      "index": 75,
+      "file": "RITUWILD-Financial-Clarity-Kit.xlsx",
+      "bytes": 63689,
+      "master_match": true,
+      "sha256": "8c88e084b130b893c8484634eaf044bdc2337d1e9c6a9ffe4a31c199976653a7"
+    }
+  ],
+  "coupon_limit": 1,
+  "coupon_used": 1,
+  "receipt_email_verified": false,
+  "real_payment_tested": false
+}

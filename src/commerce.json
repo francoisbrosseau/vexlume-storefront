@@ -11,38 +11,46 @@
     "inner-compass": {
       "checkoutUrl": "https://payhip.com/b/J0SFs",
       "ownerApproved": true,
-      "filesUploaded": false,
+      "filesUploaded": true,
       "paymentConnected": true,
       "deliveryTested": false,
       "paymentTested": false,
-      "policiesReady": false
+      "policiesReady": false,
+      "downloadTested": true,
+      "receiptEmailVerified": false
     },
     "financial-clarity-kit": {
       "checkoutUrl": "https://payhip.com/b/fA0lM",
       "ownerApproved": false,
-      "filesUploaded": false,
+      "filesUploaded": true,
       "paymentConnected": true,
       "deliveryTested": false,
       "paymentTested": false,
-      "policiesReady": false
+      "policiesReady": false,
+      "downloadTested": true,
+      "receiptEmailVerified": false
     },
     "next-chapter-planner": {
       "checkoutUrl": "https://payhip.com/b/P6XH0",
       "ownerApproved": false,
-      "filesUploaded": false,
+      "filesUploaded": true,
       "paymentConnected": true,
       "deliveryTested": false,
       "paymentTested": false,
-      "policiesReady": false
+      "policiesReady": false,
+      "downloadTested": true,
+      "receiptEmailVerified": false
     },
     "steady-strength": {
       "checkoutUrl": "https://payhip.com/b/9u1ec",
       "ownerApproved": false,
-      "filesUploaded": false,
+      "filesUploaded": true,
       "paymentConnected": true,
       "deliveryTested": false,
       "paymentTested": false,
-      "policiesReady": false
+      "policiesReady": false,
+      "downloadTested": true,
+      "receiptEmailVerified": false
     }
   }
 }
