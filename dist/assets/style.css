@@ -34,3 +34,5 @@
 /* Complete journal / actual product previews */
 .product-visual .actual-cover-stage{height:auto;aspect-ratio:612/792;background:transparent;overflow:visible}.actual-product-cover{width:100%;height:100%;object-fit:contain}.interior-gallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:25px}.interior-gallery figure{margin:0}.interior-gallery img{width:100%;height:auto;border:1px solid var(--line)}.interior-gallery figcaption{font-size:10px;letter-spacing:.05em;padding-top:15px;color:var(--muted)}.purchase>.small{display:block;margin-top:12px;max-width:390px}
 @media(max-width:760px){.interior-gallery{grid-template-columns:1fr;gap:35px}.interior-gallery figure{max-width:520px;margin-inline:auto}.product-visual .actual-cover-stage{height:auto;aspect-ratio:612/792}}
+
+.footer-top .lunara-network-logo{width:180px;max-height:none;height:auto;object-fit:contain;margin-top:12px}
