@@ -23,6 +23,6 @@
 .worlds>a{border-color:#4e5546}
 @media(max-width:760px){.worlds{grid-template-columns:1fr}.worlds>a{padding:30px;min-height:270px}.worlds .partner-main{max-width:290px}.worlds .partner-main.hayvn-window{max-width:320px}.footer-top .partner-logo,.footer-top .hayvn-window{width:190px}}
 
-/* RUTIWILD / Return & Rise identity */
+/* RITUWILD / Return & Rise identity */
 .header>.brand{width:clamp(250px,38vw,510px);font-size:inherit;letter-spacing:normal}.brand-lockup{width:100%;height:auto}.header>.brand>span{font-size:8px;letter-spacing:.23em;margin-top:3px}.footer-brand{width:min(260px,100%);align-items:flex-start}.footer-brand img{width:100%;height:auto}.hero-signature>img{width:65px;height:65px}.hero-signature{gap:17px}
 @media(max-width:760px){.header>.brand{width:min(340px,85vw)}.header>.brand>span{font-size:6px;letter-spacing:.18em}.footer-brand{width:230px}}

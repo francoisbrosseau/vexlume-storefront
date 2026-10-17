@@ -1,4 +1,4 @@
-"""Rebuild outlined RUTIWILD identity assets (development tool: fonttools)."""
+"""Rebuild outlined RITUWILD identity assets (development tool: fonttools)."""
 from pathlib import Path
 from fontTools.ttLib import TTFont
 from fontTools.pens.svgPathPen import SVGPathPen
@@ -25,9 +25,9 @@ def lettering(word, x, baseline, size, tracking=100):
 SEAL='''<g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M94 37A45 45 0 1 0 103 67" stroke-width="1.7"/><path d="M94 37l7-17m-7 17 16-7" stroke-width="1.7"/><path d="M39 76V30h19c23 0 23 29 0 29H40m17 0 21 22" stroke-width="3.2"/><path d="M29 68l10 21 13-21 12 21 14-29" stroke-width="2.7"/><path d="M33 30h13m-13 46h13" stroke-width="1.5"/></g>'''
 
 def svg(body, view, color):
-    return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="{view}" color="{color}" fill="{color}" role="img" aria-label="RUTIWILD — routines for a life of your own"><title>RUTIWILD — Return &amp; Rise</title>{body}</svg>'
+    return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="{view}" color="{color}" fill="{color}" role="img" aria-label="RITUWILD — routines for a life of your own"><title>RITUWILD — Return &amp; Rise</title>{body}</svg>'
 
-word,end=lettering('RUTIWILD',0,76,92,120)
+word,end=lettering('RITUWILD',0,76,92,120)
 for suffix,color in [('', '#171B1B'),('-light','#F2EDE4'),('-gold','#B99B67')]:
     (ASSETS/f'wordmark{suffix}.svg').write_text(svg(word, f'0 0 {end:.1f} 94',color))
     body=f'<g transform="translate(222 0) scale(.87)">{SEAL}</g><g transform="translate(0 108)">{word}</g>'
