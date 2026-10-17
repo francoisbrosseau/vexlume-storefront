@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "picture-perfect-property",
+    "title": "The Picture-Perfect Property",
+    "category": "Home & space",
+    "price": "9.99",
+    "format": "PDF guide \u00b7 17 pages",
+    "short": "Prepare every room. Simplify photography day. Make the first impression count.",
+    "color": "ivory",
+    "status": "Preparing for launch",
+    "subtitle": "A calmer home. A clearer first impression.",
+    "intro": "A practical preparation guide for homeowners, agents and property photographers. Know what to clear, what to keep, and what to do first\u2014without turning preparation into a renovation.",
+    "features": [
+      "Room-by-room preparation for living spaces, bedrooms, kitchens and more",
+      "Furniture, lighting, privacy and presentation guidance",
+      "A practical 48-hour preparation timeline",
+      "Three printable planning and walkthrough pages",
+      "Photography-day coordination and common mistakes to avoid"
+    ],
+    "inside": [
+      [
+        "01",
+        "See the space",
+        "Start with a walkthrough and choose the changes that matter most."
+      ],
+      [
+        "02",
+        "Prepare with purpose",
+        "Work room by room, clear distractions and simplify your surfaces."
+      ],
+      [
+        "03",
+        "Be ready on the day",
+        "Use the 48-hour plan and final walkthrough to bring everything together."
+      ]
+    ],
+    "sample": "property-sample.pdf",
+    "note": "The guide is complete for owner review. Checkout and delivery are being prepared."
+  },
+  {
+    "slug": "financial-clarity-kit",
+    "title": "The Financial Clarity Kit",
+    "category": "Money & planning",
+    "price": "14.99",
+    "format": "Planned: Excel workbook",
+    "short": "A clearer view of your income, spending and the goals you are working toward.",
+    "color": "sage",
+    "status": "In development",
+    "subtitle": "Give your money a little more clarity.",
+    "intro": "An editable toolkit being developed to bring monthly budgets, income, expenses and savings into one approachable place. Built around understanding everyday finances, one month at a time.",
+    "features": [
+      "Planned monthly budget and income tracking",
+      "Planned expense and subscription trackers",
+      "Planned savings goals and spending summaries",
+      "Planned charts and clear workbook instructions"
+    ],
+    "inside": [
+      [
+        "01",
+        "Understand the month",
+        "A planned overview of income, expenses and what remains."
+      ],
+      [
+        "02",
+        "Notice the patterns",
+        "Planned category summaries and subscription reviews."
+      ],
+      [
+        "03",
+        "Choose the next step",
+        "Planned savings targets that connect to your budget."
+      ]
+    ],
+    "sample": null,
+    "note": "This workbook has not been released. Features and Excel / Google Sheets compatibility require completion and testing."
+  },
+  {
+    "slug": "inner-compass",
+    "title": "The Inner Compass",
+    "category": "Reflection & growth",
+    "price": "12.99",
+    "format": "Planned: printable PDF",
+    "short": "Thirty days to reflect with intention and turn what you notice into a next step.",
+    "color": "charcoal",
+    "status": "In development",
+    "subtitle": "A little space to hear yourself.",
+    "intro": "A guided journal being developed for people who want more than a blank page. The planned 30-day progression moves from noticing your present to choosing a grounded next step.",
+    "features": [
+      "Planned 30-day sequence of meaningful prompts",
+      "Planned weekly reviews and goal-setting exercises",
+      "Planned printable writing pages",
+      "A progression from awareness to deliberate action"
+    ],
+    "inside": [
+      [
+        "01",
+        "Notice",
+        "Explore the patterns and priorities asking for your attention."
+      ],
+      [
+        "02",
+        "Understand",
+        "Make room for values, boundaries and honest reflection."
+      ],
+      [
+        "03",
+        "Move forward",
+        "Translate insight into small, deliberate actions."
+      ]
+    ],
+    "sample": null,
+    "note": "The journal is in development. The cover is a design preview; the complete journal is not yet available."
+  },
+  {
+    "slug": "weekly-reset-planner",
+    "title": "The Weekly Reset Planner",
+    "category": "Everyday rituals",
+    "price": "0",
+    "format": "Printable PDF \u00b7 2 pages",
+    "short": "A fresh page for your priorities, your habits and a week with more breathing room.",
+    "color": "sand",
+    "status": "Free download",
+    "subtitle": "A fresh start, any day of the week.",
+    "intro": "Bring the week into focus with two thoughtfully arranged printable pages. Choose what matters, keep appointments visible and make time to notice what is working.",
+    "features": [
+      "Weekly priorities, important tasks and appointments",
+      "Personal goal and next small step",
+      "A seven-day habit tracker with four habit rows",
+      "Weekly reflection and preparation for the next week",
+      "US Letter pages, with fit-to-page printing for A4"
+    ],
+    "inside": [
+      [
+        "01",
+        "Choose",
+        "Set three priorities and one simple intention."
+      ],
+      [
+        "02",
+        "Make room",
+        "Plan appointments, important tasks and a personal goal."
+      ],
+      [
+        "03",
+        "Reset",
+        "Review what worked and choose one adjustment for next week."
+      ]
+    ],
+    "sample": "weekly-reset-planner.pdf",
+    "note": "Free to download. No account or email address required."
+  }
+]
