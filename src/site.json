@@ -8,6 +8,6 @@
     "provider": "payhip",
     "enabled": false
   },
-  "supportEmail": null,
+  "supportEmail": "metal_cook@hotmail.com",
   "analytics": null
 }

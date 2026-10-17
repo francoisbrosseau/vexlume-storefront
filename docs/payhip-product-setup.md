@@ -2,7 +2,7 @@
 
 Owner-supplied product URL: https://payhip.com/b/J0SFs
 
-Update this product; do not create another listing. Keep visibility Invisible until the release checks pass. The owner reports uploading both complete PDFs, READ-ME-FIRST.txt and the optional ZIP. Confirm the actual files and remove redundant ZIP only if desired; never remove the two complete editions in favor of the sample.
+Update this product; do not create another listing. The owner explicitly chose to leave visibility Visible on October 17, 2026; do not override this choice. Storefront purchases remain disabled until checks pass. The owner reports uploading both complete PDFs, READ-ME-FIRST.txt and the optional ZIP. Confirm the actual files and remove redundant ZIP only if desired; never remove the two complete editions in favor of the sample.
 
 ## Listing fields
 
@@ -36,7 +36,7 @@ English edition. Personal-use license. Digital download; no physical product is 
 
 ## Finish and verify
 
-Confirm a monitored support email and required seller details before finalizing policies. Keep buyer marketing consent optional. Do not assume tax or Quebec language requirements are complete.
+Owner-confirmed customer-support email: metal_cook@hotmail.com. Confirm remaining required seller details before finalizing policies. Keep buyer marketing consent optional. Do not assume tax or Quebec language requirements are complete.
 
 Test the download page and receipt email with a restricted 100%-off coupon. Open the downloaded files and save/reopen a digital answer. This verifies delivery only. Payment receipt requires a separately authorized real payment from an appropriate buyer account; verify both the Payhip order and PayPal receipt. Never mark either test complete without evidence.
 

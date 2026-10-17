@@ -22,7 +22,7 @@ Before activation, confirm seller display/legal identity, a monitored customer s
 
 Title: The Inner Compass - 30-Day Guided Reflection Journal
 
-Price: USD 12.99. One-time digital product. Upload the two complete PDF editions and READ-ME-FIRST.txt as separate delivery files if supported, or the tested ZIP. Preview file: inner-compass-preview.pdf only. Cover: actual finished journal cover, not a fake book mockup. Keep the listing invisible during setup; an unlisted link is still purchasable and is not a private draft.
+Price: USD 12.99. One-time digital product. Upload the two complete PDF editions and READ-ME-FIRST.txt as separate delivery files if supported, or the tested ZIP. Preview file: inner-compass-preview.pdf only. Cover: actual finished journal cover, not a fake book mockup. The owner chose a visible listing during setup; do not override that preference. An unlisted link is also purchasable and is not a private draft.
 
 Keep sales disabled until the owner approves the product and seller setup is complete. Do not mark the product tax-exempt or choose an ebook tax category without verifying the applicable treatment. Retain the download receipt and provider transaction records.
 
@@ -37,7 +37,7 @@ Keep sales disabled until the owner approves the product and seller setup is com
 
 Current state (October 17, 2026): owner approved the guide, reports the PayPal connection and upload of both complete PDFs, instructions and ZIP, and supplied https://payhip.com/b/J0SFs. The Payhip dashboard independently showed checkout setup complete. The listing is owner-reported visible with title only; cover and description still need applying. Browser credential protection interrupted the upload flow and subsequently prevented account access. No uploaded-file hashes, connected PayPal details, customer receipt, delivery or paid transaction have been independently verified. The supplied URL is saved in configuration but checkout remains disabled. Only ownerApproved is marked complete; all unverified launch gates remain false.
 
-Seller support email and final business/policy details remain unconfirmed. Do not reopen signup or reconnect PayPal solely because the agent browser is unavailable. Finish the existing product instead of creating a duplicate. Switch the provider listing to Invisible during preparation; a disabled storefront button cannot prevent purchases from a visible Payhip listing. See docs/payhip-product-setup.md for the exact listing copy and cover asset.
+The owner confirmed metal_cook@hotmail.com as the customer-support email on October 17, 2026. Public brand display name: RITUWILD. Legal seller identity, required business contact details and final policies remain unconfirmed. Do not reopen signup or reconnect PayPal solely because the agent browser is unavailable. Finish the existing product instead of creating a duplicate. The owner explicitly chose to leave the provider listing Visible on October 17, 2026. Respect that decision; do not change its visibility without a new instruction. A disabled storefront button does not prevent purchases directly through Payhip. Payment and delivery are still untested. See docs/payhip-product-setup.md for the exact listing copy and cover asset.
 
 ## Official sources checked
 
