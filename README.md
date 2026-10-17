@@ -17,4 +17,4 @@ The free Weekly Reset Planner and Your Next Step browser exercise are intentiona
 Public preview authorized October 16, 2026. This is not an operational paid store: payment/delivery, seller information, final policies, naming/domain clearance and product completion remain required. Search indexing remains disabled during development. See `docs/launch-readiness.md`.
 
 
-Phase 03: personal-growth focus and original HAYVAN / WILDWIRE artwork. See `docs/growth-direction-v3.md`.
+Phase 03: personal-growth focus and original HAYVN / WILDWIRE artwork. See `docs/growth-direction-v3.md`.

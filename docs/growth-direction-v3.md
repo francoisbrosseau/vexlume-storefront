@@ -6,7 +6,7 @@ Inner Compass and Financial Clarity lead the collection; The Next Chapter and St
 
 ## Original partner logos
 
-The HAYVAN link uses original gold artwork from HayvnStudio/images/hayvn-logo-gold.png (verified source blob ce86a14006acd30c5aa54ad4638a8638b0e099ad). The original artwork itself spells HAYVN; its lettering was preserved, while surrounding text and accessible labels use the owner's requested HAYVAN spelling. The full artwork is optimized to WebP and framed using CSS to display the main mark. WILDWIRE uses the exact original images/wildwire-wordmark.webp asset, copied from its repository. Both are shown in the homepage family section and every page's footer. No sibling repository was modified.
+The HAYVN link uses original gold artwork from HayvnStudio/images/hayvn-logo-gold.png (verified source blob ce86a14006acd30c5aa54ad4638a8638b0e099ad). The original HAYVN lettering is preserved. The full artwork is optimized to WebP and framed using CSS to display the main mark. WILDWIRE uses the exact original images/wildwire-wordmark.webp asset, copied from its repository. Both are shown in the homepage family section and every page's footer. No sibling repository was modified.
 
 ## Image briefs and assets
 
