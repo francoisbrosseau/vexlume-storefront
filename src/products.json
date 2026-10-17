@@ -36,63 +36,87 @@
       ]
     ],
     "sample": "inner-compass-preview.pdf",
-    "note": "The complete journal is ready for review. Paid checkout is being connected and tested. No paid orders are accepted yet. For personal reflection and organization; not therapy or a crisis service."
+    "note": "The complete journal is approved. Checkout on this website remains disabled while payment and delivery tests are pending. For personal reflection and organization; not therapy or a crisis service.",
+    "complete": true,
+    "samplePages": 8
   },
   {
     "slug": "financial-clarity-kit",
     "title": "The Financial Clarity Kit",
     "category": "Financial clarity",
     "price": "14.99",
-    "format": "Planned: Excel workbook",
+    "format": "XLSX workbook + 9-page PDF guide",
     "short": "A clearer view of your income, spending and the goals you are working toward.",
     "color": "sage",
-    "status": "In development",
+    "status": "Built · preview available",
     "subtitle": "Make your money support your life.",
-    "intro": "An editable toolkit in development for understanding your month, noticing spending patterns and choosing realistic savings priorities. The aim is a clearer relationship with everyday money, with practical organization rather than investment advice.",
+    "intro": "A complete editable budgeting toolkit with five connected worksheets: Overview, Budget, Transactions, Savings and Subscriptions. See recorded income and spending by month, compare your plan with actual expenses and review recurring commitments. Includes a nine-page practical guide with worked examples.",
     "features": [
-      "Planned monthly overview of income, commitments and money remaining",
-      "Planned planned-versus-actual expense categories and spending review",
-      "Planned subscription audit with renewal dates and cancellation reminders",
-      "Planned savings goals connected to a realistic monthly contribution",
-      "Planned month-end reflection: what changed, what worked and what to adjust"
+      "Five connected worksheets with a monthly overview and a native annual income-and-expense chart",
+      "A reusable monthly budget with 14 expense categories and planned-versus-actual totals",
+      "1,000 dated transaction rows, category dropdowns and input-review messages",
+      "Ten savings goals with remaining amounts, progress and estimated contribution months",
+      "Twenty subscriptions with monthly cost estimates for weekly, monthly, quarterly and annual charges",
+      "Nine-page PDF guide; no macros, bank connections or automatic money movement"
     ],
     "inside": [
       [
         "01",
-        "Understand the month",
-        "A planned overview of income, expenses and what remains."
+        "Record the month",
+        "Set one currency and a first-of-month date. Record actual income, expenses and transfers once."
       ],
       [
         "02",
-        "Notice the patterns",
-        "Planned category summaries and subscription reviews."
+        "Understand the difference",
+        "Compare your plan with actual categories and use the annual view to see recorded patterns."
       ],
       [
         "03",
-        "Choose the next step",
-        "Planned savings targets that connect to your budget."
+        "Review and adjust",
+        "Review goals and subscriptions, reconcile your records and choose one next-month adjustment."
       ]
     ],
-    "sample": null,
-    "note": "This workbook has not been released. Features and Excel / Google Sheets compatibility require completion and testing."
+    "sample": "financial-clarity-kit-preview.pdf",
+    "note": "Built and calculation-tested in the authoring engine. Native Excel and Google Sheets behavior has not been independently tested. Checkout is not enabled for this product. Educational organization only; no personalized financial advice.",
+    "complete": true,
+    "cover": "financial-clarity-kit-cover.webp",
+    "samplePages": 3,
+    "gallery": [
+      [
+        "financial-clarity-kit-inside.webp",
+        "Actual foundation or guide page",
+        "01 / Clear starting instructions"
+      ],
+      [
+        "financial-clarity-kit-worksheet.webp",
+        "Actual practical worksheet or worked example",
+        "02 / Useful detail, ready to use"
+      ],
+      [
+        "financial-clarity-kit-workbook.webp",
+        "Actual empty Financial Clarity overview worksheet and native chart",
+        "03 / Editable workbook overview"
+      ]
+    ]
   },
   {
     "slug": "next-chapter-planner",
     "title": "The Next Chapter",
     "category": "Life direction",
     "price": "12.99",
-    "format": "Planned: 90-day PDF planner",
+    "format": "2 A4 PDFs · 44 pages each · writable + print",
     "short": "Get clear on what matters, choose a direction and build your next 90 days around it.",
     "color": "ivory",
-    "status": "In development",
+    "status": "Built · preview available",
     "subtitle": "Your life is allowed to change direction.",
-    "intro": "A life-planning toolkit in development for the in-between moments: a fresh start, a change of priorities or the feeling that something needs to shift. Start with where you are, define what matters and test your next direction in manageable steps.",
+    "intro": "A complete 90-day life-planning workbook for a fresh start, a change of priorities or a direction you want to test. Take stock, compare options and choose one meaningful focus. Use thirteen weekly planning and review pairs, plus Day 30, 60 and 90 checkpoints, to keep the plan connected to real life.",
     "features": [
-      "Planned life-area review: energy, time, relationships, work and wellbeing",
-      "Planned values and priorities exercises to clarify what to protect or change",
-      "Planned decision pages for comparing options and naming trade-offs",
-      "Planned 90-day focus with milestones and weekly next actions",
-      "Planned stop/start/continue reviews and a reset when circumstances change"
+      "Eight starting worksheets for life areas, values, capacity, focus, decisions, experiments, milestones and obstacles",
+      "Thirteen weekly planning and review pairs; the final week covers Days 85-90",
+      "Three deeper checkpoints on Days 30, 60 and 90",
+      "Reusable decision page, notes and a next-season exercise",
+      "Two complete 44-page A4 editions: 149 writable fields and a separate print edition",
+      "Undated English edition with personal-use license and clear PDF instructions"
     ],
     "inside": [
       [
@@ -111,26 +135,42 @@
         "Turn that direction into small experiments, milestones and weekly reviews."
       ]
     ],
-    "sample": null,
-    "note": "This planner is in development. The complete 90-day workbook is not yet available."
+    "sample": "next-chapter-planner-preview.pdf",
+    "note": "Complete files are built and checked; available here as a seven-page preview. Checkout is not enabled for this product. A personal organization resource, not a guarantee of a particular life outcome.",
+    "complete": true,
+    "cover": "next-chapter-planner-cover.webp",
+    "samplePages": 7,
+    "gallery": [
+      [
+        "next-chapter-planner-inside.webp",
+        "Actual foundation or guide page",
+        "01 / Clear starting instructions"
+      ],
+      [
+        "next-chapter-planner-worksheet.webp",
+        "Actual practical worksheet or worked example",
+        "02 / Useful detail, ready to use"
+      ]
+    ]
   },
   {
     "slug": "steady-strength",
     "title": "Steady Strength",
     "category": "Training & habits",
     "price": "9.99",
-    "format": "Planned: 12-week PDF tracker",
+    "format": "2 A4 PDFs · 74 pages each · writable + print",
     "short": "Build a training rhythm you can return to. Track effort, recovery and the habits behind progress.",
     "color": "sage",
-    "status": "In development",
+    "status": "Built · preview available",
     "subtitle": "Consistency has a quieter kind of strength.",
-    "intro": "A training-and-habit tracker in development for people who want a routine that lasts beyond a motivated Monday. Organize the sessions you already choose, notice recovery and build a useful picture of your consistency over 12 weeks.",
+    "intro": "A complete twelve-week tracker for activities you already choose. Plan your weekly rhythm, record up to thirty-six sessions and notice the habits and recovery conditions that affect consistency. Includes real seven-day habit grids and block reviews after Weeks 4, 8 and 12.",
     "features": [
-      "Planned weekly training schedule with space for your own activities",
-      "Planned session logs for movement, duration, effort and notes",
-      "Planned habit tracking for the routines that support consistency",
-      "Planned recovery check-ins for sleep, energy and how a session felt",
-      "Planned weekly reviews and a practical return-after-a-break page"
+      "Six starting worksheets for routine, baseline, process goals, schedule, recording conventions and returning after a break",
+      "Twelve weekly plans with a four-habit, seven-day tracking grid",
+      "Thirty-six session logs with six activity rows plus effort and recovery notes",
+      "Twelve weekly reviews and three block reviews after Weeks 4, 8 and 12",
+      "Two complete 74-page A4 editions: 764 writable fields and checkboxes, plus a separate print edition",
+      "Records your chosen activities; does not prescribe exercise, nutrition or medical treatment"
     ],
     "inside": [
       [
@@ -149,8 +189,23 @@
         "Review what is sustainable and use a missed week as information for the next one."
       ]
     ],
-    "sample": null,
-    "note": "This tracker is in development. It organizes your chosen activities; it does not prescribe exercise, nutrition or medical treatment."
+    "sample": "steady-strength-preview.pdf",
+    "note": "Complete files are built and checked; available here as a seven-page preview. Checkout is not enabled for this product. Choose activities appropriate to your own situation and existing guidance.",
+    "complete": true,
+    "cover": "steady-strength-cover.webp",
+    "samplePages": 7,
+    "gallery": [
+      [
+        "steady-strength-inside.webp",
+        "Actual foundation or guide page",
+        "01 / Clear starting instructions"
+      ],
+      [
+        "steady-strength-worksheet.webp",
+        "Actual practical worksheet or worked example",
+        "02 / Useful detail, ready to use"
+      ]
+    ]
   },
   {
     "slug": "weekly-reset-planner",

@@ -1,41 +1,41 @@
-# Public development preview update
+# RITUWILD launch readiness
 
-October 16, 2026: owner authorized a public repository and a browsable public development website. Paid product masters and their generation scripts remain in the private `vexlume-private-products` repository. The public storefront contains only website source, free resources and a three-page paid-guide sample. Checkout remains disabled and indexing remains blocked during development. The prior launch-gate report below is historical; its prohibition on public preview is superseded by this authorization. Final commercial launch gates remain in force.
+Updated October 17, 2026. This current report supersedes earlier development reports.
 
----
+## Complete
 
-# Launch readiness / October 2026
-
-## Implemented
-
-- Dedicated private GitHub repository.
-- 14 static pages: home, shop, four product pages, philosophy, FAQ, contact, four customer-information pages; separate 404.
-- Original logo/monogram, favicon, cover system, social artwork and optimized hero photograph.
-- Responsive CSS layouts, keyboard focus, skip link, mobile navigation, Escape close and focus return, searchable category-filtered catalog and empty state.
-- A real 17-page property preparation guide (private), three-page sample (public assets), and two-page free planner (public assets).
-- Semantic page structure, unique title/description, Open Graph preparation, private-development crawl restrictions and static-host security headers.
-- No automatic public deploy; no remote runtime packages, analytics, email collection or payment-card handling.
+- Public storefront at https://rituwild.com; dedicated GitHub source and Sites deployment.
+- Sixteen HTML pages, five product pages, catalog search/filters, navigation, free action-card tool and support page.
+- Approved generated RITUWILD logo, HAYVN and WILDWIRE footer links.
+- The Inner Compass: owner-approved; two complete 46-page editions; eight-page public sample. Owner uploaded files to Payhip and supplied https://payhip.com/b/J0SFs.
+- Financial Clarity Kit: five-sheet XLSX, nine-page PDF guide, three-page guide sample. Capacity: 1,000 transactions, fourteen categories, ten goals, twenty subscriptions.
+- The Next Chapter: two complete 44-page A4 editions, 149 writable fields, 90-day progression, seven-page sample.
+- Steady Strength: two complete 74-page A4 editions, 764 fields/checkboxes, 36 session logs, seven-page sample.
+- Free Weekly Reset Planner: two-page public PDF, no account or email required.
+- Confirmed support email metal_cook@hotmail.com published on Contact and included in new instructions.
+- Complete paid masters remain private. Only partial samples, preview images and the free planner are public.
 
 ## Verified
 
-See `qa-results.json`. Source checks cover local references, titles, descriptions, one H1, image alt attributes, duplicate IDs, development robots rules and PDF page/text integrity. Node checks exercise catalog filters/search/empty/reset and mobile-menu state/Escape focus. Rendered all 19 pages of the guide and planner for layout review; sample derives from reviewed guide pages.
+- Local links, metadata, one H1, image alt text/dimensions and unique IDs passed source checks.
+- Menu open/close/Escape/focus, filters/search/reset/empty states and action-card interactions passed tests.
+- Eight new PDFs passed page bounds and form/widget checks. Saved/reopened text, multiline accents and a training checkbox passed where applicable. Samples have no widgets.
+- Every print page and all five workbook sheets received visual review, plus representative full-size pages and saved-answer renders.
+- Financial calculations passed realistic income/expense/refund/transfer, monthly cutoff, category, savings-boundary and subscription-frequency tests. Synthetic entries removed before export.
+- Saved XLSX contains five sheets and one formula-linked native chart with text month labels and correct colors. No formula error cells, macros or external links detected.
+- All three new delivery ZIPs passed integrity checks.
 
-## Not verified
+## Blocked or unverified
 
-Browser visual, device and assistive-technology QA has not run. The Sites workflow requires the control-browser skill for managed browser QA; it is unavailable in this session. No preview server or improvised browser automation was used. Responsive CSS is implemented but should not be described as device-tested.
+- Browser native credential protection prevents continued Payhip account editing. Sign-in reached the dashboard, which reported checkout setup complete, but the upload attempt was interrupted. No successful agent upload is claimed.
+- Owner reports PayPal connected and Inner Compass files uploaded. Uploaded bytes, PayPal connection details, receipt and seller information remain unverified.
+- Owner chose to leave the existing Inner Compass Payhip listing Visible. Respect this decision; visibility is not evidence of a tested purchase flow.
+- Three new packages have not been uploaded to Payhip. Their checkout URLs do not yet exist in configuration.
+- Download-page/email delivery test, separately authorized real payment receipt, failure recovery and refund flow remain untested. A 100%-off coupon test would prove delivery only.
+- Native Excel, Google Sheets and mobile PDF reader interaction have not been independently tested. Limits are stated in files and product pages.
+- Device layout and assistive-technology QA unavailable: supported control-browser skill absent. Responsive CSS is implemented, not device-tested.
+- Legal seller identity, required business contact details, final policies, Quebec language requirements and tax settings remain unresolved. Do not invent details or mark gates complete.
 
-No hosted deployment, live checkout, test payment, refund or customer delivery has occurred. External sibling-site links are based on verified repository identities; their hosted availability was not independently tested here.
+## Activation
 
-## Required before public commercial launch
-
-1. Name clearance: official CIPO/USPTO searches, business and similar-name screening, domain and social checks. Deferred per the owner's instruction to review the name/domain after website construction. No availability claim is made.
-2. Final owner review of design, product contents, pricing and license options. Paid PDF cover and storefront cover use complementary but not identical typography.
-3. Seller legal name, verified business contact and monitored support address; business registration/address decisions where applicable.
-4. Qualified review of Quebec/French-language obligations, consumer terms, privacy notice, refund rules and GST/HST/QST/international-tax setup. These are launch review topics, not legal findings.
-5. Complete and test the financial workbook and reflection journal before offering them for sale. Do not sell planned features.
-6. Choose and authorize commercial hosting; configure owner-access private staging, then test mobile/desktop layouts, keyboard/screen reader behavior, focus, downloads and actual host headers.
-7. Connect a verified Payhip account and payment provider; upload paid files there only, configure product URLs and confirm checkout pricing/tax display.
-8. Test authorized payment, delivery page/email, download integrity, repeat access, failure cases and refund flow. Keep purchase controls disabled until successful.
-9. Add authorized analytics/consent and subscriber tooling only after privacy/consent decisions. A free download does not grant marketing consent.
-10. Set the approved canonical origin, generate absolute Open Graph URLs and sitemap, remove noindex/disallow only for an approved public launch, then validate robots/header behavior.
-11. Obtain explicit public launch authorization. No spending or public publishing is authorized by the existence of these files.
+Storefront purchase controls remain disabled. A product needs its real Payhip link, approved content, verified files, payment connection, delivery test, real payment test and completed seller/policy setup before activation. Keep indexing disabled until commercial launch checks pass. No purchases or paid subscriptions were made. See commerce-readiness.md and catalog-release.md.

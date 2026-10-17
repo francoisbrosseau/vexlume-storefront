@@ -16,6 +16,33 @@
       "deliveryTested": false,
       "paymentTested": false,
       "policiesReady": false
+    },
+    "financial-clarity-kit": {
+      "checkoutUrl": null,
+      "ownerApproved": false,
+      "filesUploaded": false,
+      "paymentConnected": false,
+      "deliveryTested": false,
+      "paymentTested": false,
+      "policiesReady": false
+    },
+    "next-chapter-planner": {
+      "checkoutUrl": null,
+      "ownerApproved": false,
+      "filesUploaded": false,
+      "paymentConnected": false,
+      "deliveryTested": false,
+      "paymentTested": false,
+      "policiesReady": false
+    },
+    "steady-strength": {
+      "checkoutUrl": null,
+      "ownerApproved": false,
+      "filesUploaded": false,
+      "paymentConnected": false,
+      "deliveryTested": false,
+      "paymentTested": false,
+      "policiesReady": false
     }
   }
 }
