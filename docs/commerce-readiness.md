@@ -10,7 +10,7 @@ Prepared October 17, 2026. First release: The Inner Compass, proposed USD 12.99 
 - Payhip-only hosted-checkout configuration with a fail-closed activation check.
 - Existing free Weekly Reset Planner remains downloadable without payment or email capture.
 
-Full paid files and product source are not in the public storefront. Paid content source is maintained separately in the private products repository. Complete deliverables are available privately to the owner for approval and platform upload.
+Full paid files and product source are not in the public storefront. Paid content source is maintained separately in the private products repository. The owner approved the complete guide on October 17, 2026. Complete deliverables remain private.
 
 ## Seller steps and account access
 
@@ -35,7 +35,9 @@ Keep sales disabled until the owner approves the product and seller setup is com
 5. Enter the exact verified Payhip product URL in src/commerce.json and set only completed gates true. Enabling launch without all gates causes the build to fail.
 6. Publish and verify the product link, buyer journey and files. Enable search indexing only when the commercial release is genuinely ready.
 
-Current state: product and storefront preparation complete; Payhip seller sign-in/connection, product upload and transaction tests are not completed. No payments or automated delivery have been claimed as operational.
+Current state (October 17, 2026): owner approved the guide, reports the PayPal connection and upload of both complete PDFs, instructions and ZIP, and supplied https://payhip.com/b/J0SFs. The Payhip dashboard independently showed checkout setup complete. The listing is owner-reported visible with title only; cover and description still need applying. Browser credential protection interrupted the upload flow and subsequently prevented account access. No uploaded-file hashes, connected PayPal details, customer receipt, delivery or paid transaction have been independently verified. The supplied URL is saved in configuration but checkout remains disabled. Only ownerApproved is marked complete; all unverified launch gates remain false.
+
+Seller support email and final business/policy details remain unconfirmed. Do not reopen signup or reconnect PayPal solely because the agent browser is unavailable. Finish the existing product instead of creating a duplicate. Switch the provider listing to Invisible during preparation; a disabled storefront button cannot prevent purchases from a visible Payhip listing. See docs/payhip-product-setup.md for the exact listing copy and cover asset.
 
 ## Official sources checked
 

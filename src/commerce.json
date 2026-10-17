@@ -9,8 +9,8 @@
   },
   "products": {
     "inner-compass": {
-      "checkoutUrl": null,
-      "ownerApproved": false,
+      "checkoutUrl": "https://payhip.com/b/J0SFs",
+      "ownerApproved": true,
       "filesUploaded": false,
       "paymentConnected": false,
       "deliveryTested": false,
