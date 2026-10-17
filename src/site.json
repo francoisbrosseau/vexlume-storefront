@@ -2,9 +2,12 @@
   "brand": "RITUWILD",
   "tagline": "Beautiful Tools for Real Life.",
   "stage": "public development preview",
-  "canonicalOrigin": null,
+  "canonicalOrigin": "https://rituwild.com",
   "intendedDomain": "https://rituwild.com",
-  "checkout": null,
+  "checkout": {
+    "provider": "payhip",
+    "enabled": false
+  },
   "supportEmail": null,
   "analytics": null
 }

@@ -15,3 +15,7 @@ Namecheap access is blocked by a saved browser permission setting. No registrar 
 | TXT | _cf-custom-hostname.www | 4d93b72a-468d-4546-8976-8063b92d2b08 |
 
 After records are set, refresh validation for both hosts and verify HTTPS before changing canonical metadata or partner destinations. Until then, keep the working preview links. Checkout and indexing remain disabled pending launch readiness. The owner accepted the previously explained similar-name concern; full legal clearance is not claimed.
+
+## Verified connection / October 16, 2026
+
+Sites reports both rituwild.com and www.rituwild.com active, provider active and SSL active. The earlier www TXT lookup was not visible to the public resolver, but provider certificate and ownership validation subsequently completed. Current validation list contains only the two ownership records. Do not remove existing verification records unnecessarily. Canonical metadata and partner destinations now use https://rituwild.com. Indexing stays disabled until commercial launch readiness is complete.

@@ -1,0 +1,21 @@
+{
+  "provider": "payhip",
+  "currency": "USD",
+  "launchEnabled": false,
+  "seller": {
+    "displayName": null,
+    "supportEmail": null,
+    "legalDetailsVerified": false
+  },
+  "products": {
+    "inner-compass": {
+      "checkoutUrl": null,
+      "ownerApproved": false,
+      "filesUploaded": false,
+      "paymentConnected": false,
+      "deliveryTested": false,
+      "paymentTested": false,
+      "policiesReady": false
+    }
+  }
+}

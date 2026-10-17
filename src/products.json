@@ -4,38 +4,39 @@
     "title": "The Inner Compass",
     "category": "Emotional clarity",
     "price": "12.99",
-    "format": "Planned: printable PDF",
+    "format": "2 PDFs · 46 pages each · writable + A4 print",
     "short": "Thirty days to reflect with intention and turn what you notice into a next step.",
     "color": "charcoal",
-    "status": "In development",
+    "status": "Complete · preview available",
     "subtitle": "Know what you feel. Choose what comes next.",
-    "intro": "A 30-day guided reflection journal in development for understanding emotions, reconnecting with values and choosing a thoughtful next step. The planned progression gives difficult days and meaningful changes somewhere to land.",
+    "intro": "A complete 30-day guided reflection journal with practical examples, purposeful prompts and small actions. Move from noticing what is happening to understanding your patterns, choosing a direction and building a rhythm you can return to. Includes a writable US Letter PDF and an ink-friendly A4 print edition.",
     "features": [
-      "Planned daily check-in for feelings, context and what you need",
-      "Planned prompts exploring recurring patterns, values and boundaries",
-      "Planned exercises separating an observation from the story around it",
-      "Planned weekly reviews that turn reflection into one small action",
-      "Planned printable writing pages with room for honest, unhurried answers"
+      "30 distinct daily sessions with guidance, examples, two reflection prompts and a small action",
+      "Four weekly reviews on Days 7, 14, 21 and 28",
+      "Starting worksheets for values, life areas, a four-step reflection method and practical goal planning",
+      "Personal compass, next-month plan, weekly return, decision worksheet, habit tracker and extra writing pages",
+      "Writable US Letter edition with 122 answer fields; complete A4 print edition with ruled writing space",
+      "46 pages per edition, undated, in English; personal-use license and clear file instructions"
     ],
     "inside": [
       [
         "01",
-        "Notice without rushing",
-        "Name the feeling, the moment around it and what deserves your attention."
+        "Notice and understand",
+        "Explore attention, energy, emotions, values, boundaries and recurring patterns."
       ],
       [
         "02",
-        "Find the pattern",
-        "Explore the needs, values and boundaries underneath recurring experiences."
+        "Choose a useful action",
+        "Define a focus, prepare for obstacles, reduce friction and ask for support."
       ],
       [
         "03",
-        "Choose with intention",
-        "Turn what you learn into a grounded next step and a weekly review."
+        "Return and continue",
+        "Review the week, adjust after interruptions and carry a realistic plan into the next month."
       ]
     ],
-    "sample": null,
-    "note": "The journal is in development. It supports self-reflection and is not therapy or a crisis service. Interior pages are not yet available."
+    "sample": "inner-compass-preview.pdf",
+    "note": "The complete journal is ready for review. Paid checkout is being connected and tested. No paid orders are accepted yet. For personal reflection and organization; not therapy or a crisis service."
   },
   {
     "slug": "financial-clarity-kit",
@@ -156,7 +157,7 @@
     "title": "The Weekly Reset Planner",
     "category": "Weekly reset",
     "price": "0",
-    "format": "Printable PDF \u00b7 2 pages",
+    "format": "Printable PDF · 2 pages",
     "short": "A fresh page for your priorities, your habits and a week with more breathing room.",
     "color": "sand",
     "status": "Free download",

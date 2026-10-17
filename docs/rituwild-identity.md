@@ -6,4 +6,4 @@ Primary transparent image: dist/assets/rituwild-logo.webp. Dark-surface variant:
 
 Retain charcoal, ivory, sage and gold editorial design. Preserve aspect ratio, natural gold detailing and clear space. Do not put the logo into a square badge or rebuild it from text or CSS.
 
-Existing GitHub repository name and Site project are retained. Checkout and indexing remain disabled. Domain validation is in progress; retain working preview destinations until HTTPS is verified.
+Existing GitHub repository name and Site project are retained. Checkout and indexing remain disabled. Both custom domains passed hosting and SSL validation; canonical metadata and partner destinations use https://rituwild.com.

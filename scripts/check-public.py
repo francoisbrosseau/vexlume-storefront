@@ -36,3 +36,7 @@ for f in D.rglob('*.html'):
 assert not (R/'products').exists()
 assert not (R/'scripts/products.py').exists()
 print(json.dumps({'html_pages':len(list(D.rglob('*.html'))),'local_references_checked':references,'paid_masters_in_public_source':False,'broken_local_references':0,'browser_visual_qa':'unavailable: control-browser skill absent','checkout':'disabled'},indent=2))
+
+allowed_pdfs={'weekly-reset-planner.pdf','inner-compass-preview.pdf'}
+assert {p.name for p in D.rglob('*.pdf')} <= allowed_pdfs, 'A full paid file may have been added to public output'
+assert not list(D.rglob('*.zip')), 'Paid ZIP must not be public'
