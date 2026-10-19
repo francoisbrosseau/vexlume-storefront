@@ -36,3 +36,11 @@
 @media(max-width:760px){.interior-gallery{grid-template-columns:1fr;gap:35px}.interior-gallery figure{max-width:520px;margin-inline:auto}.product-visual .actual-cover-stage{height:auto;aspect-ratio:612/792}}
 
 .footer-top .lunara-network-logo{width:180px;max-height:none;height:auto;object-fit:contain;margin-top:12px}
+
+/* HAYVN Sanctuary in the independent partner network. */
+.footer-top .partner-sanctuary{display:flex;flex-direction:column;align-items:center;justify-content:center;max-width:210px;padding:9px 12px;border-radius:10px;border:1px solid rgba(213,173,95,.34);background:linear-gradient(155deg,#111615,#242923);transition:border-color .25s ease,transform .25s ease}
+.footer-top .partner-sanctuary img{display:block;width:100%;max-width:190px;height:105px;object-fit:contain}
+.footer-top .partner-sanctuary>span{color:#e1c085;font-family:Georgia,serif;font-size:12px;letter-spacing:.27em;line-height:1.5}
+.footer-top a:hover .partner-sanctuary{border-color:#e1c085;transform:translateY(-2px)}
+.footer-top a:focus-visible .partner-sanctuary{outline:2px solid #e1c085;outline-offset:4px}
+@media(max-width:760px){.footer-top .partner-sanctuary{max-width:190px}}
